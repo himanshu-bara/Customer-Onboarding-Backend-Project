@@ -1,0 +1,24 @@
+/* src/components/ReviewKycPage.css */
+
+.review-container {
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+.kyc-photo {
+  width: 100px;
+  height: auto;
+  border-radius: 4px;
+}

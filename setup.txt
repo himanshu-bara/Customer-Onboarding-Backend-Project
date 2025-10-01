@@ -1,0 +1,24 @@
+BACKEND
+===================================================================================================================
+
+1. Start the KAFKA zookeeper and KAFKA server
+
+2. Start the EurekaServerApplication  [Customer Service -> (com.orcle.eureka) ]
+
+3. Start ConsumerApplication for KAFKA [Customer Service -> (com.orcle.kafka) ]
+
+4. Start Customer Service CustomerServiceApplication [Customer Service -> (com.orcle.customer) the first package ]
+
+5. Start KYC service [KYC service -> (com.oracle.kyc) the first package]
+
+6. Start Account service [Account service -> (com.oracle.account) the first package]
+
+===================================================================================================================
+
+
+FRONTEND
+
+1. Open the folder [C:\Oracle project\frontend\banking-app>] in VS code [Your path might be different]
+
+2. type npm start
+

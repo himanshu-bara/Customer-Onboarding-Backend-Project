@@ -1,0 +1,28 @@
+/* src/components/KycStatusChecker.css */
+
+input {
+  padding: 8px;
+  width: 100%;
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #9b59b6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #8e44ad;
+}
+
+.status-card {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #ecf0f1;
+  border-left: 4px solid #9b59b6;
+}
